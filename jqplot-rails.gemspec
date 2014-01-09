@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version     = "0.4"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Matt House, Random Bares"]
-  s.email       = ["aeramor@gmail.com"]
+  s.email       = ["matt@eightbitraptor.com"]
   s.summary     = "JqPlot for Rails 4 asset pipeline"
   s.description = "JqPlot for Rails 4 asset pipeline"
 
